@@ -1,8 +1,22 @@
 # Introduction
 
 Arboff Linkvertise Bypasser 1.0 is a noGUI linkvertise.com bypasser based on Python.
+Pyper
+## Used Libraries:
+
+```requests
+Included with Python 3.9:
+- ctypes
+- webbrowser
+
+Other:
+- pyperclip
+- requests
+```
+
 
 ## Installation on Linux
+
 
 
 ```bash
